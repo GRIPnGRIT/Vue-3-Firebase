@@ -240,4 +240,139 @@ Seciton 18: Extra Lesson & More Resources
  196. Async & Await
 
 Section 19: ARCHIVED - Introduction
+ 197. Introduction
+ 198. Course Files
+ 199. Text Editor Setup
  
+Section 20: ARCHIVED - Vue.js Basics
+ 200. What is Vue.js?
+ 201. Setting up Vue.js (the simple way)
+ 202. The Vue Instance
+ 203. Methods
+ 204. Data Binding
+ 205. Events
+ 206. The Event Object
+ 207. Keyboard Events
+ 208. Two-way Data Binding (v-model)
+ 209. Modifiers
+ 210. Conditional Output with v-if
+ 211. Looping with v-for
+
+Section 21: ARCHIVED - The Vue CLI
+ 212. The Vue CLI
+ 213. Components & Vue Files
+ 214. The data() Function
+ 215. Nesting Components
+ 216. Scoped CSS
+ 217. Passing Data with Props
+ 218. Custom Events
+ 219. Life-cycle Hooks
+ 220. Making Requests with Axios
+ 221. Filters
+ 222. Computed Properties (custom search box)
+ 
+Section 22: ARCHIVED - The Vue Router
+ 223. What is the Vue Router?
+ 224. Setting up Routes
+ 225. Router Links
+ 226. Route Parameters
+ 227. Watching the $route Object
+ 228. More on Router Links
+ 229. Programmatically Redirecting Users
+ 230. Hash vs History Mode
+ 231. Styling Active Links
+ 
+Section 23: ARCHIVED - Project One - Ninja Smoothies
+ 232. Project Preview & Setup
+ 233. Project Structure
+ 234. Material Design
+ 235. Navbar Component
+ 236. Index Component
+ 237. Deleting (local) Data
+ 238. Introduction to Firebase
+ 239. Setting up Firestore
+ 240. Installing Firebase
+ 241. Retrieving Firestore Data
+ 242. Deleting Firestore Data
+ 243. Add Smoothie Component
+ 244. Adding Ingredients
+ 245. Outputting Ingredients
+ 246. Saving Records to Firestore
+ 247. Deleting Ingredients
+ 248. Edit Smoothie Route
+ 249. Firestore Queries
+ 250. Edit Smoothie Form
+ 251. Updating Firestore Records
+ 252. Deploying to Firebase
+ 253. Project Review
+ 
+Section 24: ARCHIVED - Porject Two - Real-Time-Chat App
+ 254. Project Overview & Setup
+ 255. Project Structure
+ 256. Firestore Setup
+ 257. Making a Welcome Screen
+ 258. Passing Props Via Routes
+ 259. Route Guards
+ 260. Creating the Chat Window
+ 261. New Message Component
+ 262. Adding Messages to Firestore
+ 263. Real-Time Events (event listeners)
+ 264. Formatting Times with Moment
+ 265. Auto-scrolling
+ 266. Deploying the App
+ 267. Project Review
+ 
+Section 25: ARCHIVED - Project Three - Geo Ninjas
+ 268. Project Overview & Setup
+ 269. Project Structure
+ 270. Setting up Firebase
+ 271. Navbar Component
+ 272. Map Component
+ 273. Google Maps API
+ 274. Creating a New Map
+ 275. Creating a Signup Page
+ 276. Firebase Auth & Data Structure
+ 277. Checking if an Alias exists
+ 278. Signing up a User
+ 279. Creating Firestore User Records
+ 280. Wrapping the Vue Instance
+ 281. Logging a User Out
+ 282. Login Component
+ 283. Logging Users In
+ 284. Geolocation API
+ 285. Updating a User’s Location
+ 286. Route Guarding (auth)
+ 287. Conditional Navbar Links
+ 288. Ninja (map) Markers
+ 289. User Profiles
+ 290. User Comments (data discussion)
+ 291. Adding Comments
+ 292. Showing Comments (Real-Time)
+ 293. Some Final Styles
+ 294. Deploying the app
+ 
+Section 26: ARCHIVED - Firebase Cloud Functions
+ 295. What Are Cloud Functions?
+ 296. Creating a Simple Callable Function
+ 297. Calling a Function
+ 298. Intro to Firebase Rules
+ 
+Section 27: ARCHIVED - ES6 & Extras
+ 299. ES6 Arrow Functions
+ 300. ES6 Promises
+ 301. Imports and Exports
+ 302. JavaScript Filter Method
+ 
+Section 28: ARCHIVED - BONUS: Vue CLI 3
+ 303. Vue CLI 3 Introduction
+ 304. Using the new Vue CLI
+ 305. The CLI Service
+ 306. Custom Presets
+ 307. Adding Plugins
+ 308. Build & Deploy to Firebase
+ 309. Instant Prototyping
+ 310. Build Targets (Making a Web Component)
+ 311. Using Web Components
+ 312. The Vue GUI (part 1)
+ 313. The Vue GUI (part 2)
+ 314. Using 'vue init' with the New CLI
