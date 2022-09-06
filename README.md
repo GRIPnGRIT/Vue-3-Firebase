@@ -195,5 +195,49 @@ Section 16: PROJECT BUILD - Muso Ninjas (& Firebase Storage)
  157. Checking Playlist Ownership
  158. CHALLENGE - Deleting a Playlist (Composable)
  159. Deleting Images from Storage
- 
+ 160. More on Firestore Rules
+ 161. Storage Rules
+ 162. Adding Songs to Playlists
+ 163. Updating Playlist Details
+ 164. Listing Songs
+ 165. CHALLENGE - Deleting Songs
+ 166. User Playlists Route
+ 167. Firestore Queries
+ 168. Listing User Playlists
+ 169. Final Touches
+ 170. Building & Deploying
+ 171. Next Steps
 
+Section 17: Using Vue with Firebase 9
+ 172. Intro & Starter Project
+ 173. Firebase Config File
+ 174. Fetching Firestore Data
+ 175. Real Time Collection Data
+ 176. Adding New Documents
+ 177. Deleting Documents
+ 178. Updating Documents
+ 179. Setting up Firebase Auth
+ 180. Signing Up New Users
+ 181. Logging Users Out
+ 182. Logging Users In
+ 183. Getting the Current User
+
+Section 0: undefined
+ 184. Conditional Navbar Content
+ 185. Waiting for Auth to be Ready
+ 186. Making a Route Guard
+ 187. Redirecting Users
+ 188. Firestore Queries
+
+Seciton 18: Extra Lesson & More Resources
+ 189. Extra JavaScript Lessons
+ 190. ES6 Modules (Import & Export)
+ 191. Using map( ) & filter( )
+ 192. Spread Syntax
+ 193. Template Strings
+ 194. Arrow Function Syntax
+ 195. Fetch & Promises
+ 196. Async & Await
+
+Section 19: ARCHIVED - Introduction
+ 
